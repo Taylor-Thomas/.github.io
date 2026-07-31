@@ -1,2 +1,2 @@
 # .github.io
-Designing people-centered systems that improve access, onboarding, operations, and participant success.
+Designing people-centered systems that improve access, on-boarding, operations, and participant success.
